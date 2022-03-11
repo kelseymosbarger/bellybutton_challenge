@@ -14,3 +14,4 @@ the following dynamic charts/tables were created for this dashboard:
 
 https://kelseymosbarger.github.io/bellybutton_challenge/ is the website to view the interactive dashboard
 
+![image](https://user-images.githubusercontent.com/94019661/157797560-1eebe077-cc04-4d5d-a73c-c42eb8f03edd.png)
