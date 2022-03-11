@@ -11,3 +11,6 @@ the following dynamic charts/tables were created for this dashboard:
     2. a bubble chart showing all bacteria found in the sample
     3. a gauge to show the washing frequency of the subject
     4. metadata table to show the demographic information of the sample
+
+https://kelseymosbarger.github.io/bellybutton_challenge/ is the website to view the interactive dashboard
+
